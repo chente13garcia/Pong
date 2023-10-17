@@ -1,0 +1,10 @@
+body {
+  font-family: 'Gill Sans',  sans-serif;
+  text-align: center;
+}
+
+#board {
+  background-color: black;
+  border-top: 5px solid #87ceeb;
+  border-bottom: 5px solid #87ceeb;
+}
